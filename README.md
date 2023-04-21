@@ -1,4 +1,4 @@
-# Web App for running rasa chatbot
+# Web App for running rasa chatbot made with Vue.js 2
 
 - Requirements:
     `node version: 16.x`
