@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="p-2 bg-warning font-weight-bold text-dark text-center bottom-0">
-      You can contact us via
+      You can contact me via
       <a href="mailto:abhig0209@gmail.com " class="text-danger"
         >abhig0209@gmail.com</a
       >

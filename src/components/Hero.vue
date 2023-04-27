@@ -20,7 +20,7 @@
                         <!-- <a class="nav-link text-white hover" href="#themes-and-upgrades">Themes And Upgrades</a> -->
                     <!-- </li> -->
                     <li class="nav-item">
-                        <a class="nav-link text-white hover" target="_blank" href=" https://github.com/sangeetmore/headspace-helper">Repo</a>
+                        <a class="nav-link text-white hover" target="_blank" href=" https://github.com/sangeetmore/rasa-mental-chatbot">Repo</a>
                     </li>
                 </ul>
             </div>

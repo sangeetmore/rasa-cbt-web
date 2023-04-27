@@ -10,7 +10,7 @@
     <!-- <Themes /> -->
     <br /><br />
 
-    <Footer />
+    <!-- <Footer /> -->
 
   </div>
 </template>
