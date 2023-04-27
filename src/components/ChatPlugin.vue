@@ -1,5 +1,5 @@
 <template>
-    <div id="rasa-chat-widget" data-websocket-url="" data-avatar-url="https://icon2.cleanpng.com/20171220/xxq/smiley-png-5a3a6ae39e2dd7.0296809115137778916479.jpg"></div>
+    <div id="rasa-chat-widget" :data-websocket-url="connUrl" data-avatar-url="https://icon2.cleanpng.com/20171220/xxq/smiley-png-5a3a6ae39e2dd7.0296809115137778916479.jpg"></div>
 </template>
 
 <script>
