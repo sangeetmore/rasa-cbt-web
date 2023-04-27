@@ -3,7 +3,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container">
-            <a class="navbar-brand" href="#hero"><i class="fas fa-atom"></i> Chatbot <span>UI</span>
+            <a class="navbar-brand" href="#hero"><i class="fas fa-microchip-ai"></i> Headspace <span>Helper</span>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -16,11 +16,11 @@
                     <li class="nav-item active">
                         <a class="nav-link text-white font-weight-bold hover" href="#get-started">Get Started</a>
                     </li>
+                    <!-- <li class="nav-item"> -->
+                        <!-- <a class="nav-link text-white hover" href="#themes-and-upgrades">Themes And Upgrades</a> -->
+                    <!-- </li> -->
                     <li class="nav-item">
-                        <a class="nav-link text-white hover" href="#themes-and-upgrades">Themes And Upgrades</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white hover" target="_blank" href=" https://github.com/Elysian01/ChatBot-Web-Integration ">Repo</a>
+                        <a class="nav-link text-white hover" target="_blank" href=" https://github.com/sangeetmore/headspace-helper">Repo</a>
                     </li>
                 </ul>
             </div>
@@ -31,31 +31,28 @@
 
     <div class="hero-content">
         <div class="hero-bot mobile">
-            <img src="../assets/img/homepage-bot.png " alt="Bot Image" />
+            <img src="../assets/img/cbt-img.png" alt="Bot Image" />
         </div>
 
-        <div data-aos="fade-down-right" data-aos-duration="1000" class="hero-header">
-            <h1>Get your hands on our<br><span class="primary-color"> Ready-to-use UI Designs</span><br> for your Rasa bots!</h1>
+        <div data-aos="fade-down-right" data-aos-duration="1000" class="hero-header" style="margin-top: 12rem;">
+            <h1>Chat Your Way to Mental Wellness:<br><span class="primary-color"> Introducing Our Mental Health Chatbot</span><br></h1>
 
             <br />
             <p>
-                Looking for UI Designs for your rasa chatbot with alluring colours and responsive features? Look no further!
-                Explore our available designs in different colour schemes and ensure smooth traversal across all devices.
-                Don't like the available designs? Don't you worry! Customize themes and colours according to your liking
-                very quickly and easily.
+                Our chatbot is designed to provide you with a safe and supportive space to talk about your mental health concerns. Whether you're struggling with anxiety, depression, or any other mental health issue, our chatbot is here to help.
             </p>
 
             <br>
-            <h3><span class="primary-color cachy-line">Embed. Customize. Repeat.</span></h3>
+            <h3><span class="primary-color">Test our bot by clicking the icon on the bottom-right!</span></h3>
 
-            <div class="btns">
-                <a href="#get-started"><button class="btn-green">Get Started</button></a>
-                <button @click="downloadFile" class="btn-green">Download</button>
-            </div>
+            <!-- <div class="btns"> -->
+                <!-- <a href="#get-started"><button class="btn-green">Get Started</button></a> -->
+                <!-- <button @click="downloadFile" class="btn-green">Download</button> -->
+            <!-- </div> -->
         </div>
 
         <div data-aos="fade-up-left" data-aos-duration="1000" class="hero-bot desktop">
-            <img src="../assets/img/homepage-bot.png " alt="Bot Image" />
+            <img src="../assets/img/cbt-img.png" alt="Bot Image" />
         </div>
     </div>
     <br>

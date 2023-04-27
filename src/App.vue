@@ -7,7 +7,7 @@
     <Getting_Started />
     <br />
 
-    <Themes />
+    <!-- <Themes /> -->
     <br /><br />
 
     <Footer />
@@ -19,8 +19,8 @@
 import Hero from "./components/Hero.vue";
 import Features from "./components/Features.vue";
 import Getting_Started from "./components/Getting_Started.vue";
-import Themes from "./components/Themes.vue";
-import Footer from "./components/Footer.vue";
+// import Themes from "./components/Themes.vue";
+// import Footer from "./components/Footer.vue";
 
 import "./assets/css/styles.css";
 import ChatPlugin from "./components/ChatPlugin.vue";
@@ -31,8 +31,8 @@ export default {
     Hero,
     Features,
     Getting_Started,
-    Themes,
-    Footer,
+    // Themes,
+    // Footer,
     ChatPlugin,
 },
 };
